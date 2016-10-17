@@ -6,7 +6,7 @@ Create a Docker container of this repo (uses [Kubernetes](http://kubernetes.io/)
 
 https://github.com/ljcohen/2016_binder_test
 
-This will build a binder instance:
+This will build a binder instance. For example (click on link below):
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ljcohen/2016_binder_test)
 
