@@ -8,4 +8,8 @@ This will build a binder instance:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ljcohen/2016_binder_test)
 
-Since a Docker image is created for this repo, this link can be given to people to all run an identical copy of the repo. The repo may contain data files, which people can then interact with using Jupyter notebooks. New Jupyter notebooks can be started. Alternatively, an existing Jupyter notebook (index.ipynb) can be included within the repo, which will start when someone launches the binder instance. files Additional packages can be installed using the terminal found within the binder.
+Since a Docker image is created for this repo, this link can be given to people (e.g. a class of students) to all run an identical copy of the repo. The repo may contain data files, which people can then interact with using Jupyter notebooks. New Jupyter notebooks can be started once the binder instance starts. Alternatively, an existing Jupyter notebook (index.ipynb) can be included within the repo, which will start automatically when someone launches the binder instance. 
+
+Additional packages can be installed using the terminal. The terminal can be reached from the main Jupyter screen from the right-hand side, under 'New', 'Terminal'. To get to this main screen from a running notebook, click on 'File', 'Open'.
+
+http://mybinder.org/
