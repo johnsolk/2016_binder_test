@@ -1,6 +1,6 @@
 # 2016_binder_test
 
-Create a Docker container of this repo (uses [Kubernetes](http://kubernetes.io/)). Go to [mybinder](http://mybinder.org) and paste the url of this repo: 
+To create a Docker container of this repo (uses [Kubernetes](http://kubernetes.io/)), go to [mybinder](http://mybinder.org) and paste the url of this repo: 
 
 (Make sure to use the github url, not the clone.)
 
